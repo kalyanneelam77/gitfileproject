@@ -1,0 +1,6 @@
+welcome to github
+a=10;
+b=5;
+c=a+b;
+print c;
+program of addition
